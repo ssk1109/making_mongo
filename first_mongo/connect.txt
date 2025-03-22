@@ -1,3 +1,0 @@
-mongosh "mongodb+srv://khins1109:tjdrbdi708@cluster0.bpdnm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-
-mongodb+srv://khins1109:tjdrbdi708@cluster0.bpdnm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
